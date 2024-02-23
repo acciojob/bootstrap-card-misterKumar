@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.bg-light {
+  background-color: #f8f9fa;
+}
+.text-muted {
+  color: #6c757;
+}
